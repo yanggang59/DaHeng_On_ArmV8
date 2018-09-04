@@ -1,0 +1,5 @@
+this is a demo for Daheng Camera on ArmV8 
+
+put libgxiapi.so into /usr/lib so that you can link to it
+
+also ,this demo uses OpenCV API,so related .h files and libs should be provided accordingly
